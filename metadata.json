@@ -1,0 +1,6 @@
+{
+  "name": "Bacówka Gościniec",
+  "description": "Bacówka Gościniec — dom do wynajęcia dla 9 osób w Gorcach, przy żółtym szlaku, z widokiem na Tatry. 5 sypialni, ogród, miejsce na ognisko, Nowy Targ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
